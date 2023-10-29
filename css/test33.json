@@ -1,0 +1,184 @@
+{
+  "questions":[
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Computer Style Sheets",
+      "Cascading Style Sheets",
+      "Creative Style Sheets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which HTML attribute is used to define inline styles?",
+    "options": [
+      "style",
+      "font",
+      "styles"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How do you make each word in a text start with a capital letter?",
+    "options": [
+      "text-transform:capitalize",
+      "You can't do that with CSS",
+      "text-transform:uppercase"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "color",
+      "bg-color",
+      "background-color"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do you add a background color for all <p> elements?",
+    "options": [
+      "p.all {background-color: #ffffff}",
+      "all.p {background-color: #ffffff}",
+      "p {background-color: #ffffff}"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": [
+      "color",
+      "text-color",
+      "fgcolor"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which property is used to change the left margin of an element?",
+    "options": [
+      "indent",
+      "margin-left",
+      "padding-left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How do you select an element with id 'demo'?",
+    "options": [
+      ".demo",
+      "#demo",
+      "*demo"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the default value of the position property?",
+    "options": [
+      "relative",
+      "fixed",
+      "static"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which property is used to change the font of an element?",
+    "options": [
+      "text-style",
+      "text-font",
+      "font-family"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do you display hyperlinks without an underline?",
+    "options": [
+      "a {text-decoration:none;}",
+      "a {decoration:no-underline;}",
+      "a {underline:none;}"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which property is used to set the spacing in between lines of text?",
+    "options": [
+      "spacing",
+      "line-spacing",
+      "line-height"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do you select elements with class name 'test'?",
+    "options": [
+      ".test",
+      "#test",
+      "test"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which pseudo-class is used to select elements when you mouse over them?",
+    "options": [
+      ":active",
+      ":hover",
+      ":visited"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the CSS rule 'clear: both' do?",
+    "options": [
+      "It hides both elements",
+      "It moves the element clear of both margins",
+      "It prevents floating elements on both sides"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do you make a list that lists its items with squares?",
+    "options": [
+      "list-style-type: square;",
+      "list: square;",
+      "list-type: square;"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which property specifies the bottom margin?",
+    "options": [
+      "margin-bottom",
+      "bottom-margin",
+      "lower-margin"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which property changes the color of links?",
+    "options": [
+      "link-color",
+      "color",
+      "a-color"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the correct way to write a CSS comment?",
+    "options": [
+      "<!-- this is a comment -->",
+      "/* this is a comment */",
+      "// this is a comment //"
+    ],
+    "answer": 1
+  }
+]
+}

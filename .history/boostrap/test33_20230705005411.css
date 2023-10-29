@@ -1,0 +1,219 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: #AF40FF;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    
+  }  
+    h1, h2 {
+      font-family: Arial, sans-serif;
+      height: 100px;
+      border-bottom: #5B42F3 solid 3px ;
+    }
+    
+    #question-container {
+      display: block;
+      border: 4px solid #AF40FF;
+      box-shadow: #AF40FF 0px 20px 30px -10px;
+      width: 50%;
+      height: 60%;
+      background-image: linear-gradient(to right, #7e6ee8, #2ab7c1);
+      border-radius: 0 0 30% 30%;
+      margin-top: 115px;
+      
+    }
+    #result-container {
+      display: none;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    li {
+      margin-bottom: 10px;
+    }
+  
+    button:hover {
+      cursor: pointer;
+      background-color: #ddd;
+    }
+    #question {
+      font-size: 20px;
+      
+      margin: 20px;
+    }
+    #options {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      margin-top: -40px;
+    }
+    
+    #options li {
+      display: flex; /* Use flexbox to align items horizontally */
+      align-items: center; /* Center align items vertically */
+      margin-bottom: 0.75rem; /* Add margin at the bottom of each list item */
+      padding: 20px;
+      
+    }
+    
+    #options input {
+     
+      width: 1.25rem;
+      height: 1.25rem;
+      padding: 0 10px;
+      border-radius: 1px;
+      vertical-align: middle; /* Adjust vertical alignment of the checkbox */
+      margin-right: 0.5rem; 
+      margin-left: 50px;/* Add margin between checkbox and options */
+      margin-bottom: 5px;
+    }
+    
+    #options input:checked {
+      background-color: hsla(0, 0%, 0%, 0.935); /* Set background color when checkbox is checked */
+      border-color: hsl(0, 0%, 0%); /* Set border color when checkbox is checked */
+    }  
+    #options input:focus,
+    #options input:hover {
+      box-shadow: 0 0 0 3px hsl(0, 0%, 0%); /* Add box shadow when checkbox is focused or hovered */
+      border-color: hsl(0, 0%, 0%); /* Set border color when checkbox is focused or hovered */
+    }
+    
+    #options li {
+      font-size: 10px;
+      border-bottom: 2px dotted hsl(0, 69%, 14%); /* Add bottom border to the label */
+      
+      cursor: pointer; /* Change cursor to pointer on hover */
+      
+  
+    }
+  /* CSS */
+  
+   
+  #submit-btn {
+    align-items: center; /* Center align items vertically */
+    background-color: #AF40FF;
+    border: 0;
+    border-radius: 8px; /* Add border radius */
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px; /* Add box shadow */
+    box-sizing: border-box;
+    color: #FFFFFF; /* Set text color */
+    display: flex; /* Use flexbox for alignment */
+    font-family: Phantomsans, sans-serif;
+    font-size: 20px; /* Set font size */
+    justify-content: center; /* Center align content horizontally */
+    line-height: 1em;
+    max-width: 100%;
+    min-width: 140px; /* Set minimum width */
+    padding: 3px;
+    text-decoration: none;
+    user-select: none; /* Disable text selection */
+    -webkit-user-select: none; /* Disable text selection in WebKit browsers */
+    touch-action: manipulation; /* Enable touch manipulation */
+    white-space: nowrap; /* Prevent wrapping of text */
+    cursor: pointer; /* Set cursor style to pointer */
+    margin: auto;
+    margin-top: 30px;
+    width: 150px;
+    font-size: 30px;
+  }
+  
+  #submit-btn:active,
+  #submit-btn:hover {
+    outline: 0; /* Remove outline on hover and active state */
+  }
+  
+  #submit-btn span {
+    background-color: rgb(5, 6, 45); /* Set background color for the span */
+    padding: 16px 24px; /* Add padding to the span */
+    border-radius: 6px; /* Add border radius to the span */
+    width: 100%; /* Set the width of the span to 100% */
+    height: 100%; /* Set the height of the span to 100% */
+    transition: 300ms; /* Add transition effect */
+  }
+  
+  #submit-btn:hover span {
+    background: none; /* Remove background color on hover */
+  }
+  #timer {
+    margin: 0%;
+    border: 0px;
+    padding: 0%;
+    color: rgb(218, 196, 200);
+    background-color: #AF40FF;
+    width: fit-content;
+    height: fit-content;
+    margin-bottom: 30px;
+    margin-top: -20px;
+    
+    
+  }
+  #result {
+    display: none;
+  }
+.testo {
+  display: none;
+}
+.ikram {
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
+#result {
+  color: rgb(0, 0, 0);
+  align-items: center;
+  margin-top: 30px;
+  font-size: 30px;
+}
+#testo {
+background-color: #09505e;
+
+}
+.nino {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+#restart-btn {
+  align-items: center; /* Center align items vertically */
+  background-image: linear-gradient(144deg, #140a1b, #09505e 50%, #00DDEB); /* Use linear gradient for the background */
+  border: 0;
+  border-radius: 8px; /* Add border radius */
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px; /* Add box shadow */
+  box-sizing: border-box;
+  color: #FFFFFF; /* Set text color */
+  display: flex; /* Use flexbox for alignment */
+  font-family: Phantomsans, sans-serif;
+  margin-top: 200px;
+  font-size: 20px; /* Set font size */
+  justify-content: center; /* Center align content horizontally */
+  line-height: 1em;
+  max-width: 100%;
+  min-width: 140px; /* Set minimum width */
+  padding: 3px;
+  text-decoration: none;
+  user-select: none; /* Disable text selection */
+  -webkit-user-select: none; /* Disable text selection in WebKit browsers */
+  touch-action: manipulation; /* Enable touch manipulation */
+  white-space: nowrap; /* Prevent wrapping of text */
+  cursor: pointer; /* Set cursor style to pointer */
+  margin: auto;
+  margin-top: 30px;
+  width: fit-content;
+  font-size: 30px;
+  display: none;
+  margin-top: 100px;
+}
+.ikramo {
+  height: 80%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

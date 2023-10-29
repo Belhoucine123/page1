@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "question": "What does PHP stand for?",
+      "options": ["Personal Hypertext Processor", "PHP: Hypertext Preprocessor", "Pretext Hypertext Processor"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is the correct way to start a PHP code block?",
+      "options": ["<php>", "<?php>", "<script>"],
+      "answer": 1
+    },
+    {
+      "question": "Which PHP superglobal variable contains information about headers, paths, and script locations?",
+      "options": ["$_GET", "$_POST", "$_SERVER"],
+      "answer": 2
+    },
+    {
+      "question": "What is the correct way to output 'Hello World' in PHP?",
+      "options": ["console.log('Hello World');", "print('Hello World');", "echo 'Hello World';"],
+      "answer": 2
+    },
+    {
+      "question": "Which PHP function is used to read a file line by line?",
+      "options": ["fopen()", "fread()", "fgets()"],
+      "answer": 2
+    },
+    {
+      "question": "What is the correct way to check if a variable is an array in PHP?",
+      "options": ["is_array($var)", "$var instanceof Array", "gettype($var) == 'array'"],
+      "answer": 0
+    },
+    {
+      "question": "What is the output of the following code?\n\n```php\n$x = 10;\n$y = 20;\necho $x + $y;\n```",
+      "options": ["1020", "30", "Error"],
+      "answer": 1
+    },
+    {
+      "question": "Which PHP function is used to get the length of a string?",
+      "options": ["strlen()", "length()", "count()"],
+      "answer": 0
+    },
+    {
+      "question": "What is the correct way to concatenate two strings in PHP?",
+      "options": ["str1 . str2", "str1 + str2", "str1 .+ str2"],
+      "answer": 0
+    },
+    {
+      "question": "Which PHP function is used to redirect the user to a different URL?",
+      "options": ["header()", "redirect()", "location()"],
+      "answer": 0
+    },
+    {
+      "question": "What is the output of the following code?\n\n```php\n$x = '10';\n$y = 20;\necho $x + $y;\n```",
+      "options": ["1020", "30", "Error"],
+      "answer": 1
+    },
+    {
+      "question": "Which PHP function is used to format a date and time?",
+      "options": ["date()", "time()", "format()"],
+      "answer": 0
+    },
+    {
+      "question": "What is the correct way to include an external PHP file?",
+      "options": ["include('file.php')", "import('file.php')", "require('file.php')"],
+      "answer": 2
+    },
+    {
+      "question": "Which PHP superglobal variable is used to retrieve data sent via the HTTP POST method?",
+      "options": ["$_GET", "$_POST", "$_REQUEST"],
+      "answer": 1
+    },
+    {
+      "question": "What is the output of the following code?\n\n```php\n$x = 5;\necho ++$x;\n```",
+      "options": ["5", "6", "Error"],
+      "answer": 1
+    },
+    {
+      "question": "Which PHP function is used to open a file in write mode?",
+      "options": ["fopen()", "fwrite()", "file_open()"],
+      "answer": 0
+    },
+    {
+      "question": "What is the correct way to define a constant in PHP?",
+      "options": ["define('CONSTANT_NAME', value)", "$CONSTANT_NAME = value", "constant('CONSTANT_NAME', value)"],
+      "answer": 0
+    },
+    {
+      "question": "Which PHP function is used to check if a file or directory exists?",
+      "options": ["file_exists()", "is_file()", "file_check()"],
+      "answer": 0
+    },
+    {
+      "question": "What is the output of the following code?\n\n```php\n$x = 5;\necho $x++;\n```",
+      "options": ["5", "6", "Error"],
+      "answer": 0
+    },
+    {
+      "question": "Which PHP function is used to get the current timestamp?",
+      "options": ["time()", "date()", "now()"],
+      "answer": 0
+    },
+    {
+      "question": "What is the correct way to access the value of a specific cookie in PHP?",
+      "options": ["$_COOKIE['cookie_name']", "$_COOKIE->cookie_name", "get_cookie('cookie_name')"],
+      "answer": 0
+    },
+    {
+      "question": "Which PHP function is used to remove whitespace or other predefined characters from the beginning and end of a string?",
+      "options": ["trim()", "strip()", "clean()"],
+      "answer": 0
+    },
+    {
+      "question": "What is the output of the following code?\n\n```php\n$x = 10;\n$y = '10';\nif ($x == $y) {\n    echo 'Equal';\n} else {\n    echo 'Not Equal';\n}\n```",
+      "options": ["Equal", "Not Equal", "Error"],
+      "answer": 0
+    },
+    {
+      "question": "Which PHP superglobal variable is used to retrieve data sent via the HTTP GET method?",
+      "options": ["$_GET", "$_POST", "$_REQUEST"],
+      "answer": 0
+    },
+    {
+      "question": "What is the correct way to get the length of an array in PHP?",
+      "options": ["count($array)", "$array.length()", "sizeof($array)"],
+      "answer": 0
+    },
+    {
+      "question": "Which PHP function is used to convert a string to an array?",
+      "options": ["explode()", "split()", "array_convert()"],
+      "answer": 0
+    },
+    {
+      "question": "What is the output of the following code?\n\n```php\n$x = 10;\n$y = '10';\nif ($x === $y) {\n    echo 'Equal';\n} else {\n    echo 'Not Equal';\n}\n```",
+      "options": ["Equal", "Not Equal", "Error"],
+      "answer": 1
+    },
+    {
+      "question": "Which PHP function is used to include a PHP file only if it has not been included before?",
+      "options": ["include_once()", "require_once()", "import_once()"],
+      "answer": 0
+    },
+    {
+      "question": "What is the correct way to delete a cookie in PHP?",
+      "options": ["unset($_COOKIE['cookie_name'])", "setcookie('cookie_name', '', time() - 3600)", "$_COOKIE['cookie_name'] = null"],
+      "answer": 1
+    },
+    {
+      "question": "Which PHP function is used to convert a value to a string?",
+      "options": ["to_string()", "strval()", "string()"],
+      "answer": 1
+    }
+  ]
+}

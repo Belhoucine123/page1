@@ -1,0 +1,160 @@
+{
+    "questions":[
+     {
+         "question": "What is Bootstrap?",
+         "options": ["A programming language", "A front-end framework", "A server-side framework"],
+         "answer": 1
+     },
+     {
+         "question": "Which CSS preprocessor is commonly used with Bootstrap?",
+         "options": ["Sass", "Less", "Stylus"],
+         "answer": 0
+     },
+     {
+         "question": "Which class is used to create a responsive grid layout in Bootstrap?",
+         "options": [".row", ".container", ".grid"],
+         "answer": 0
+     },
+     {
+         "question": "Which class is used to create a responsive navbar in Bootstrap?",
+         "options": [".navbar", ".nav", ".menu"],
+         "answer": 0
+     },
+     {
+         "question": "Which class is used to create a responsive card component in Bootstrap?",
+         "options": [".card", ".panel", ".box"],
+         "answer": 0
+     },
+     {
+         "question": "Which class is used to create a responsive button in Bootstrap?",
+         "options": [".btn", ".button", ".clickable"],
+         "answer": 0
+     },
+     {
+         "question": "What is the default container class in Bootstrap?",
+         "options": [".container-fluid", ".container-full", ".container"],
+         "answer": 2
+     },
+     {
+         "question": "Which class is used to create a responsive form layout in Bootstrap?",
+         "options": [".form-group", ".form-control", ".form-layout"],
+         "answer": 0
+     },
+     {
+         "question": "Which class is used to create a responsive table in Bootstrap?",
+         "options": [".table", ".tab", ".datagrid"],
+         "answer": 0
+     },
+     {
+         "question": "Which class is used to create a responsive carousel component in Bootstrap?",
+         "options": [".carousel", ".slider", ".slideshow"],
+         "answer": 0
+     },
+     {
+         "question": "What is the purpose of the Bootstrap grid system?",
+         "options": ["To create responsive layouts", "To style text and images", "To manage server-side data"],
+         "answer": 0
+     },
+     {
+         "question": "Which class is used to create a responsive alert component in Bootstrap?",
+         "options": [".alert", ".message", ".notification"],
+         "answer": 0
+     },
+     {
+         "question": "What is the purpose of the Bootstrap grid classes such as col-md-6?",
+         "options": ["To set the font size", "To define column width", "To apply text alignment"],
+         "answer": 1
+     },
+     {
+         "question": "Which class is used to create a responsive modal component in Bootstrap?",
+         "options": [".modal", ".popup", ".dialog"],
+         "answer": 0
+     },
+     {
+         "question": "What is the purpose of the Bootstrap utility classes?",
+         "options": ["To add custom styles", "To manage responsive spacing", "To apply JavaScript animations"],
+         "answer": 1
+     },
+     {
+         "question": "Which class is used to create a responsive dropdown menu in Bootstrap?",
+         "options": [".dropdown", ".menu", ".list"],
+         "answer": 0
+     },
+     {
+         "question": "What is the purpose of the Bootstrap grid breakpoints?",
+         "options": ["To control color schemes", "To define font families", "To specify responsive layout changes"],
+         "answer": 2
+     },
+     {
+         "question": "Which class is used to create a responsive navigation menu in Bootstrap?",
+         "options": [".nav", ".menu", ".list"],
+         "answer": 0
+     },
+     {
+         "question": "What is the purpose of the Bootstrap grid offsets?",
+         "options": ["To adjust the vertical spacing", "To apply box shadows", "To shift columns horizontally"],
+         "answer": 2
+     },
+     {
+         "question": "Which class is used to create a responsive tooltip component in Bootstrap?",
+         "options": [".tooltip", ".hint", ".help"],
+         "answer": 0
+     },
+     {
+         "question": "What is the purpose of the Bootstrap utility classes such as d-flex?",
+         "options": ["To add custom styles", "To manage responsive spacing", "To control display and flexbox behavior"],
+         "answer": 2
+     },
+     {
+         "question": "Which class is used to create a responsive progress bar component in Bootstrap?",
+         "options": [".progress", ".bar", ".meter"],
+         "answer": 0
+     },
+     {
+         "question": "What is the purpose of the Bootstrap grid gutter?",
+         "options": ["To control border styles", "To add shadows", "To provide horizontal spacing between columns"],
+         "answer": 2
+     },
+     {
+         "question": "Which class is used to create a responsive pagination component in Bootstrap?",
+         "options": [".pagination", ".pager", ".nav"],
+         "answer": 0
+     },
+     {
+         "question": "What is the purpose of the Bootstrap utility classes such as text-center?",
+         "options": ["To add custom styles", "To manage responsive typography", "To apply CSS animations"],
+         "answer": 1
+     },
+     {
+         "question": "Which class is used to create a responsive badge component in Bootstrap?",
+         "options": [".badge", ".tag", ".label"],
+         "answer": 0
+     },
+     {
+         "question": "What is the purpose of the Bootstrap grid column ordering classes?",
+         "options": ["To apply text styles", "To define column width", "To change the order of columns"],
+         "answer": 2
+     },
+     {
+         "question": "Which class is used to create a responsive media object in Bootstrap?",
+         "options": [".media", ".image", ".video"],
+         "answer": 0
+     },
+     {
+         "question": "What is the purpose of the Bootstrap utility classes such as bg-primary?",
+         "options": ["To manage responsive backgrounds", "To add border styles", "To adjust vertical alignment"],
+         "answer": 0
+     },
+     {
+         "question": "Which class is used to create a responsive jumbotron component in Bootstrap?",
+         "options": [".jumbotron", ".hero", ".header"],
+         "answer": 0
+     },
+     {
+         "question": "What is the purpose of the Bootstrap grid nesting?",
+         "options": ["To manage responsive borders", "To create grid-like patterns", "To place grids within grids"],
+         "answer": 2
+     }
+    ]
+   }
+   

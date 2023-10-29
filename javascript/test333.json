@@ -1,0 +1,150 @@
+{
+  "questions": [
+
+    {
+      "question": "Which method is used to add an element to the end of an array?",
+      "options": ["push()", "pop()", "concat()"],
+      "answerIndex": 0
+    },
+    {
+      "question": "What is the result of 2 + '2' in JavaScript?",
+      "options": ["4", "22", "NaN"],
+      "answerIndex": 1
+    },
+    {
+      "question": "What is the correct way to declare a JavaScript variable?",
+      "options": ["variable name;", "var variableName;", "variableName = value;"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Which JavaScript function is used to round a number to the nearest integer?",
+      "options": ["ceil()", "round()", "floor()"],
+      "answerIndex": 1
+    },
+    {
+      "question": "What is the syntax to comment a single line in JavaScript?",
+      "options": ["// This is a comment", "/* This is a comment */", "<!-- This is a comment -->"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Which operator is used to concatenate two strings in JavaScript?",
+      "options": ["+", "-", "*"],
+      "answerIndex": 0
+    },
+    {
+      "question": "What is the output of the following code? console.log(typeof(null));",
+      "options": ["object", "null", "undefined"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Which method is used to remove the last element from an array?",
+      "options": ["shift()", "splice()", "pop()"],
+      "answerIndex": 2
+    },
+    {
+      "question": "What does the CSS property 'display: none' do?",
+      "options": ["Hides the element", "Makes the element visible", "Displays an alert message"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Which function is used to parse a string to an integer in JavaScript?",
+      "options": ["parseInt()", "toFixed()", "parseFloat()"],
+      "answerIndex": 0
+    },
+    {
+      "question": "What is the result of the following expression? 5 > 3 && 2 < 4",
+      "options": ["true", "false", "undefined"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Which method is used to remove the first element from an array?",
+      "options": ["pop()", "shift()", "splice()"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Which keyword is used to declare a constant variable in JavaScript?",
+      "options": ["let", "var", "const"],
+      "answerIndex": 2
+    },
+    {
+      "question": "What is the purpose of the 'this' keyword in JavaScript?",
+      "options": ["Refers to the current function", "Refers to the global object", "Refers to the current object"],
+      "answerIndex": 2
+    },
+    {
+      "question": "What is the result of the following expression? '2' == 2",
+      "options": ["true", "false", "undefined"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Which method is used to add or update an element in a JavaScript object?",
+      "options": ["push()", "concat()", "Object.assign()"],
+      "answerIndex": 2
+    },
+    {
+      "question": "What is the correct way to write a JavaScript array?",
+      "options": ["[1, 2, 3]", "{1, 2, 3}", "(1, 2, 3)"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Which operator is used for strict equality comparison in JavaScript?",
+      "options": ["==", "===", "!="],
+      "answerIndex": 1
+    },
+    {
+      "question": "What is the purpose of the 'document.getElementById()' method?",
+      "options": ["Selects an HTML element by class name", "Selects an HTML element by ID", "Selects an HTML element by tag name"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Which JavaScript method is used to remove whitespace from both ends of a string?",
+      "options": ["trim()", "replace()", "substring()"],
+      "answerIndex": 0
+    },
+    {
+      "question": "What is the result of the following expression? typeof(undefined)",
+      "options": ["object", "null", "undefined"],
+      "answerIndex": 2
+    },
+    {
+      "question": "What is the correct way to write a JavaScript function?",
+      "options": ["function myFunction()", "myFunction: function()", "myFunction() =>"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Which method is used to return the length of a JavaScript array?",
+      "options": ["length()", "count()", "length"],
+      "answerIndex": 2
+    },
+    {
+      "question": "What is the output of the following code? console.log(1 + '2' + 3)",
+      "options": ["6", "123", "13"],
+      "answerIndex": 1
+    },
+    {
+      "question": "Which keyword is used to exit a loop in JavaScript?",
+      "options": ["return", "continue", "break"],
+      "answerIndex": 2
+    },
+    {
+      "question": "What is the purpose of the 'addEventListener()' method in JavaScript?",
+      "options": ["Adds a class to an element", "Attaches an event handler to an element", "Selects an element by ID"],
+      "answerIndex": 1
+    },
+    {
+      "question": "What is the result of the following expression? Boolean('false')",
+      "options": ["true", "false", "undefined"],
+      "answerIndex": 0
+    },
+    {
+      "question": "Which operator is used for logical OR in JavaScript?",
+      "options": ["&&", "||", "!"],
+      "answerIndex": 1
+    },
+    {
+      "question": "What is the purpose of the 'innerHTML' property in JavaScript?",
+      "options": ["Sets or returns the text content of an element", "Sets or returns the HTML content of an element", "Adds a new HTML element to the document"],
+      "answerIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+    "questions": [
+      {
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Trainer Marking Language", "Hyper Text Marketing Language", "Hyper Text Markup Language"],
+        "answer": 2
+      },
+      {
+        "question": "Which of the following is a correct HTML tag?",
+        "options": ["<p>", "(p)", "{p}"],
+        "answer": 0
+      },
+      {
+        "question": "What is the purpose of the HTML <title> tag?",
+        "options": ["To display a popup window", "To specify the title of the webpage", "To create a title section on the webpage"],
+        "answer": 1
+      },
+      {
+        "question": "How can you create a numbered list in HTML?",
+        "options": ["<list>", "<ul>", "<ol>"],
+        "answer": 2
+      },
+      {
+        "question": "Which tag is used to insert an image in HTML?",
+        "options": ["<img>", "<picture>", "Both a and b"],
+        "answer": 2
+      },
+      {
+        "question": "Which attribute is used with the img tag to display the picture file?",
+        "options": ["src", "alt", "href"],
+        "answer": 0
+      },
+      {
+        "question": "What does the <br> tag do?",
+        "options": ["Breaks the line", "Breaks the page", "Does nothing"],
+        "answer": 0
+      },
+      {
+        "question": "What tag is used to define a hyperlink in HTML?",
+        "options": ["<url>", "<link>", "<a>"],
+        "answer": 2
+      },
+      {
+        "question": "What is the purpose of the <head> element in an HTML document?",
+        "options": ["To contain the body content", "To contain meta-information about the document", "To contain the main headline of the document"],
+        "answer": 1
+      },
+      {
+        "question": "Which HTML tag defines a table cell?",
+        "options": ["<td>", "<tr>", "<tc>"],
+        "answer": 0
+      },
+      {
+        "question": "Which of the following tags is self-closing?",
+        "options": ["<p>", "<div>", "<br>"],
+        "answer": 2
+      },
+      {
+        "question": "How to specify the background color in HTML?",
+        "options": ["bgcolor attribute", "color attribute", "Both are correct"],
+        "answer": 0
+      },
+      {
+        "question": "Which HTML tag is used to define an internal style sheet?",
+        "options": ["<css>", "<style>", "<script>"],
+        "answer": 1
+      },
+      {
+        "question": "Which HTML attribute is used to define inline styles?",
+        "options": ["style", "font", "class"],
+        "answer": 0
+      },
+      {
+        "question": "What is the correct HTML tag for inserting a line break?",
+        "options": ["<lb>", "<br>", "<break>"],
+        "answer": 1
+      },
+      {
+        "question": "How can you make a numbered list that starts with 5?",
+        "options": ["Use the start attribute in the ol tag", "Use the first attribute in the ol tag", "Use the list attribute in the ol tag"],
+        "answer": 0
+      },
+      {
+        "question": "Which HTML tag is used to define a paragraph?",
+        "options": ["<pg>", "<p>", "<text>"],
+        "answer": 1
+      },
+      {
+        "question": "Which tag allows you to add a row in an HTML table?",
+        "options": ["<tr>", "<td>", "<cr>"],
+        "answer": 0
+      },
+      {
+        "question": "How can you make a text input field?",
+        "options": ["<input type=\"text\">", "<textinput type=\"text\">", "<textfield>"],
+        "answer": 0
+      },
+      {
+        "question": "How to create a checkbox in HTML?",
+        "options": ["<check>", "<input type=\"check\">", "<input type=\"checkbox\">"],
+        "answer": 2
+      },
+      {
+        "question": "Which attribute is used to provide an advisory text about an element or its content?",
+        "options": ["advise", "dir", "title"],
+        "answer": 2
+      },
+      {
+        "question": "Which tag creates a drop-down list for a form in HTML?",
+        "options": ["<list>", "<select>", "<dropdown>"],
+        "answer": 1
+      },
+      {
+        "question": "What attribute should be included in a form tag to specify the HTTP method?",
+        "options": ["get", "action", "method"],
+        "answer": 2
+      },
+      {
+        "question": "What is the purpose of the HTML DOCTYPE?",
+        "options": ["It links to a JavaScript file.", "It specifies the HTML version used in the document.", "It defines a server-side script."],
+        "answer": 1
+      },
+      {
+        "question": "What is the purpose of HTML comments?",
+        "options": ["To insert notes for the developers", "To insert hidden code snippets", "To add metadata to the webpage"],
+        "answer": 0
+      },
+      {
+        "question": "What tag is used to represent important text in HTML?",
+        "options": ["<important>", "<strong>", "<high>"],
+        "answer": 1
+      },
+      {
+        "question": "How can you group several elements together inside one box using HTML?",
+        "options": ["<group>", "<bundle>", "<div>"],
+        "answer": 2
+      },
+      {
+        "question": "Which HTML element is used to specify a footer for a document or section?",
+        "options": ["<bottom>", "<footer>", "<end>"],
+        "answer": 1
+      },
+      {
+        "question": "Which HTML5 element is used to specify related content?",
+        "options": ["<nav>", "<aside>", "<section>"],
+        "answer": 1
+      },
+      {
+        "question": "How do you add a background color for all <h1> elements in HTML?",
+        "options": ["Use CSS within a <style> tag or a separate CSS file", "Use a bgcolor attribute within the <h1> tag", "Use a color attribute within the <h1> tag"],
+        "answer": 0
+      },
+      {
+        "question": "What is the correct HTML tag for inserting a horizontal rule?",
+        "options": ["<line>", "<rule>", "<hr>"],
+        "answer": 2
+      },
+      {
+        "question": "Which attribute is used to specify a target URL for a hyperlink?",
+        "options": ["src", "alt", "href"],
+        "answer": 2
+      },
+      {
+        "question": "What does the HTML <em> tag represent?",
+        "options": ["Emphasized text", "Inserted text", "Italicized text"],
+        "answer": 0
+      },
+      {
+        "question": "How can you make a bulleted list in HTML?",
+        "options": ["<list>", "<ul>", "<ol>"],
+        "answer": 1
+      },
+      {
+        "question": "Which attribute is used to define the alternative text for an image in HTML?",
+        "options": ["src", "alt", "title"],
+        "answer": 1
+      },
+      {
+        "question": "What is the purpose of the HTML <meta> tag?",
+        "options": ["To define a paragraph", "To specify a meta-information about the document", "To insert a metadata for the webpage"],
+        "answer": 1
+      },
+      {
+        "question": "Which HTML element is used to define a navigation menu?",
+        "options": ["<nav>", "<menu>", "<ul>"],
+        "answer": 0
+      },
+      {
+        "question": "How can you create a hyperlink that opens in a new browser window or tab?",
+        "options": ["Use the target attribute with the value '_blank'", "Use the href attribute with the value '_blank'", "Use the new attribute with the value '_blank'"],
+        "answer": 0
+      },
+      {
+        "question": "What is the purpose of the HTML <div> element?",
+        "options": ["To create a division or section in the webpage", "To define a hyperlink", "To insert an image"],
+        "answer": 0
+      },
+      {
+        "question": "Which HTML attribute is used to specify an inline style for an element?",
+        "options": ["style", "class", "font"],
+        "answer": 0
+      },
+      {
+        "question": "How can you add a background image to an HTML element?",
+        "options": ["Use the background-image property in CSS", "Use the src attribute with the image URL", "Use the style attribute with the background-image property"],
+        "answer": 0
+      },
+      {
+        "question": "What is the purpose of the HTML <span> element?",
+        "options": ["To create a section heading", "To define a navigation menu", "To style a specific portion of text"],
+        "answer": 2
+      },
+      {
+        "question": "Which HTML element is used to define a definition list?",
+        "options": ["<dl>", "<ul>", "<ol>"],
+        "answer": 0
+      },
+      {
+        "question": "How can you add a line break in HTML?",
+        "options": ["<break>", "<linebreak>", "<br>"],
+        "answer": 2
+      },
+      {
+        "question": "Which HTML element is used to define a subscript text?",
+        "options": ["<sup>", "<sub>", "<small>"],
+        "answer": 1
+      }
+    ]
+  }
+  
